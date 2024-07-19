@@ -1,1 +1,5 @@
-rootfs
+*
+!main.go
+!.gitignore
+!README.md
+!.mytoydockerrc
